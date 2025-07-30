@@ -1,12 +1,12 @@
-# 🛠️ Network Troubleshooting Admin Guide
+#  Network Troubleshooting Admin Guide
 
 This project is a structured and visualized network troubleshooting guide. It contains:
 
-- ✅ Detailed issue descriptions
-- 🔧 Step-by-step resolution summaries
-- 📥 Downloadable Cisco Packet Tracer files for practice
+-  Detailed issue descriptions
+-  Step-by-step resolution summaries
+-  Downloadable Cisco Packet Tracer files for practice
 
-## 🚀 Getting Started
+##  Getting Started
 
 To run the project locally:
 
